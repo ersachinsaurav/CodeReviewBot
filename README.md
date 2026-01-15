@@ -19,17 +19,29 @@ AI-powered code review assistant that analyzes your code and provides actionable
 
 ## Screenshots
 
-### Home Screen
+<details open>
+<summary><strong>Home Screen</strong></summary>
+
 ![Home Screen](screenshots/01-home.png)
+</details>
 
-### JavaScript Code Review
+<details>
+<summary><strong>JavaScript Code Review</strong></summary>
+
 ![JavaScript Review](screenshots/02-javascript-review.png)
+</details>
 
-### PHP Code Review
+<details>
+<summary><strong>PHP Code Review</strong></summary>
+
 ![PHP Review](screenshots/04-php-review.png)
+</details>
 
-### Python Code Review
+<details>
+<summary><strong>Python Code Review</strong></summary>
+
 ![Python Review](screenshots/03-python-review.png)
+</details>
 
 ## Table of Contents
 
