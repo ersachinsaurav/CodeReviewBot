@@ -110,6 +110,7 @@ Implemented via Helmet.js:
 Subscribe to security updates:
 - Watch this repository for security advisories
 - Check CHANGELOG.md for security-related updates
+- Review [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) for secure deployment practices
 
 ## Additional Resources
 

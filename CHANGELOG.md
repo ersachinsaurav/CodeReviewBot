@@ -29,7 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Updated
 - README.md with AWS Bedrock setup instructions
-- ARCHITECTURE.md with new system design
+- docs/ARCHITECTURE.md with new system design
 - SECURITY.md with AWS security best practices
 - CONTRIBUTING.md with updated development setup
 
@@ -67,7 +67,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Documentation
 - Detailed README with setup instructions
-- Architecture documentation with diagrams
+- Architecture documentation with diagrams (docs/ARCHITECTURE.md)
+- Deployment guide (docs/DEPLOYMENT.md)
 - Contributing guidelines
 - Security policy
 - Code of Conduct

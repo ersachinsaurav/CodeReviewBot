@@ -19,9 +19,6 @@ AI-powered code review assistant that analyzes your code and provides actionable
 
 ## Screenshots
 
-<details>
-<summary>Click to view screenshots</summary>
-
 ### Home Screen
 ![Home Screen](screenshots/01-home.png)
 
@@ -33,8 +30,6 @@ AI-powered code review assistant that analyzes your code and provides actionable
 
 ### Python Code Review
 ![Python Review](screenshots/03-python-review.png)
-
-</details>
 
 ## Table of Contents
 
@@ -273,7 +268,9 @@ CodeReviewBot/
 ├── .env.example           # Environment template
 ├── .gitignore             # Git ignore rules
 ├── LICENSE                # MIT license
-├── ARCHITECTURE.md        # System architecture
+├── docs/                  # Documentation
+│   ├── ARCHITECTURE.md    # System architecture
+│   └── DEPLOYMENT.md      # Deployment guide
 ├── CONTRIBUTING.md        # Contribution guidelines
 ├── CODE_OF_CONDUCT.md     # Code of conduct
 ├── SECURITY.md            # Security policy
@@ -336,9 +333,9 @@ npm test
 
 3. Ensure Node.js 18+ is specified in deployment settings
 
-### Docker Deployment (Optional)
+### Docker Deployment & More
 
-See [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) for Docker instructions.
+See [DEPLOYMENT.md](docs/DEPLOYMENT.md) for comprehensive deployment instructions including Docker setup.
 
 ## Contributing
 
@@ -366,7 +363,7 @@ Security is a top priority. Please see our [Security Policy](SECURITY.md) for:
 
 ## Architecture
 
-For detailed system architecture, see [ARCHITECTURE.md](ARCHITECTURE.md).
+For detailed system architecture, see [ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
 ## Changelog
 
@@ -402,4 +399,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with care by the open source community. Star this repo if you find it useful!
+Made with care by [Sachin Saurav](https://github.com/ersachinsaurav) for the open source community. Star this repo if you find it useful!

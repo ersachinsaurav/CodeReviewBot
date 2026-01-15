@@ -72,6 +72,9 @@ CodeReviewBot/
 ├── server/               # Express backend
 │   ├── index.js          # API server
 │   └── package.json
+├── docs/                 # Documentation
+│   ├── ARCHITECTURE.md   # System architecture
+│   └── DEPLOYMENT.md     # Deployment guide
 ├── screenshots/          # Application screenshots
 └── package.json          # Root package.json
 ```
